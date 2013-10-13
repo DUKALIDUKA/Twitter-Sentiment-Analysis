@@ -35,7 +35,7 @@ def main():
     tweets = tweet_dict(twitterData)
     sentiment = sentiment_dict(sentimentData)
     
-    '''Create a method below that loops through each tweet in your 
+    '''loops through each tweet in your 
     twees_list.  For each individual tweet it should add up you sentiment 
     score, based on the sent_dict.
     '''
