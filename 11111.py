@@ -36,9 +36,6 @@ def main():
     state_dict = dict()
     
     
-    
-    
-    
     '''Create a method below that loops through each tweet in your 
     twees_list.  For each individual tweet it should add up you sentiment 
     score, based on the sent_dict.
@@ -78,20 +75,8 @@ def main():
         if happiest_state == "" or state_score > max_score:
             max_score = state_score
             happiest_state = state
-          
-    
-        
-
-        
-    
     print happiest_state
                     
-    
-
-
-
-
-
     
 if __name__ == '__main__':
     main()
