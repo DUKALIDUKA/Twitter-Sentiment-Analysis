@@ -3,7 +3,6 @@ import urllib2 as urllib
 import json
 import sys
 
-# See Assignment 1 instructions or README for how to get these credentials
 access_token_key = "239474470-GjTzzrJ5z6TE7kvLHAlRNdq1xeqwMwzX8TyFNUMm"
 access_token_secret = "b1mKFMHVJkSuh9PMGNlm8i759rhlzrxY9J89Yx6zYY"
 
